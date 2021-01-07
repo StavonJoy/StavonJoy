@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Stavon, a full-stack developer who uses my background in customer service and leadership to create beautiful, user-friendly applications.
+I'm Stavon, a full-stack engineer who uses my background in customer service and leadership to create beautiful, user-friendly applications.
 
 Take a peek at my [portfolio](https://stavonewart.surge.sh/)!
 
