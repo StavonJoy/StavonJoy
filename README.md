@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Stavon, a full-stack developer who uses my background in customer service and leadership to create beautiful, user-friendly applications.
+
+Take a peek at my [portfolio](https://stavonewart.surge.sh/)!
 
 <!--
 **StavonJoy/StavonJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
